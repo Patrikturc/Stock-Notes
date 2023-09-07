@@ -1218,25 +1218,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lil-nib\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\44797\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\Stock-Notes\\stock notes.csproj",
+      "projectUniqueName": "E:\\Jobs\\GitHub\\Stock-Notes\\stock notes.csproj",
       "projectName": "stock notes",
-      "projectPath": "G:\\GitHub\\Stock-Notes\\stock notes.csproj",
-      "packagesPath": "C:\\Users\\lil-nib\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub\\Stock-Notes\\obj\\",
+      "projectPath": "E:\\Jobs\\GitHub\\Stock-Notes\\stock notes.csproj",
+      "packagesPath": "C:\\Users\\44797\\.nuget\\packages\\",
+      "outputPath": "E:\\Jobs\\GitHub\\Stock-Notes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\lil-nib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\44797\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1294,7 +1297,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
